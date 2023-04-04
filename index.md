@@ -3,7 +3,7 @@
 
 ## Overview
 
-Deep learning has achieved great success in many applications such as image processing, speech recognition and Go games. However, the reason why deep learning is so powerful remains elusive. The goal of this course is to understand the successes of deep learning by studying and building the theoretical foundations of deep learning. Topics covered by this course include but are not limited to: optimization for deep learning, generalization error analysis of deep learning, representation learning and benign-overfitting of overparamterized learning models. Instructor will give lectures on the selected topics. Students will do a course project.
+Optimization is playing a central role in machine learning and deep learning. The goal of this course is to introduce modern optimization algorithms and theory for machine learning. Topics include but are not limited to gradient descent, accelerated gradient descent, stochastic gradient descent, variance reduction, lower bounds, minimax optimization, etc. Includes topic lectures and student project. Instructor will give lectures on the selected topics. Students will do a course project.
 
 ## Prerequisites
 CS 260A, STAT 200A and 200B, ECE 236B and 236C, or equivalent courses.
@@ -48,7 +48,7 @@ Grades will be computed based on the following factors:
 
 | # | Date  | Topic  | note | scribed note | reading materials  | homework |
 |----|----|----|----|----|----|----|
-| 1 | 4/4 | Nesterov's AGD  | [note]() | [scribe note]() | [N] ||
+| 1 | 4/4 | Gradient Desent  | [note]() | [scribe note]() | [N] ||
 | 2 | 4/6 | Nesterov's AGD | [note]() | [scribe note]() | [N] ||
 | 3 | 4/11 | Variance Reduction | [note]() | [scribe note]() | [] |
 | 4 | 4/13 | Variance Reduction| [note]() |  [scribe note]()| [] ||
@@ -60,9 +60,9 @@ Grades will be computed based on the following factors:
 | 9 | 5/4 | Optimization in Probability Space |[note]() | | [] ||
 | 10 | 5/9 | Optimization in Probability Space |[note]() | | [] | |
 | 11 | 5/11 | Optimization in Probability Space | [note]() | | [] ||
-| 12 | 5/16 | Canceled due to NeurIPS | [note]() |  | [] ||
-| 13 | 5/18 | Implicit Bias of Logistic Regression | [note]() | | [] ||
-|  | 5/23 | Canceled due to NeurIPS | [note]() | |  ||
+|  | 5/16 | Canceled due to NeurIPS | [note]() |  | [] ||
+| 12 | 5/18 | Implicit Bias of Logistic Regression | [note]() | | [] ||
+| 13 | 5/23 | Implicit Bias of Logistic Regression | [note]() | |  ||
 | 14 | 5/25 | Implicit Bias of Deep Linear Networks | [note]() | | [] ||
 | 15 | 5/30 | Implicit Bias of Deep Linear Networks | [note]() | | [] ||
 | 16 | 6/1 | Implicit Bias of Leaky ReLU Networks |  | | [] ||
