@@ -50,24 +50,24 @@ Grades will be computed based on the following factors:
 |----|----|----|----|----|----|----|
 | 1 | 4/4 | Gradient Desent  | [note]() | [scribe note]() | [N] ||
 | 2 | 4/6 | Nesterov's AGD | [note]() | [scribe note]() | [N] ||
-| 3 | 4/11 | Variance Reduction | [note]() | [scribe note]() | [] |
+| 3 | 4/11 | SGD | [note]() | [scribe note]() | [] |
 | 4 | 4/13 | Variance Reduction| [note]() |  [scribe note]()| [] ||
-| 5 | 4/18 | Lower Bound | [note]() | [scribe note]() | [] ||
+| 5 | 4/18 | Variance Reduction | [note]() | [scribe note]() | [] ||
 |  | 4/20 | Canceled due to travel| [note]() | [scribe note]()| [] ||
 | 6 | 4/25 | Lower Bound | [note]()| [scribe note]() | [] | |
-| 7 | 4/27 | Optimization on Riemmanian Manifold | [note]() |  | [] ||
+| 7 | 4/27 | Lower Bound | [note]() |  | [] ||
 | 8 | 5/2 | Optimization on Riemmanian Manifold | [note]() | [scribe note]() | []  ||
-| 9 | 5/4 | Optimization in Probability Space |[note]() | | [] ||
+| 9 | 5/4 | Optimization on Riemmanian Manifold |[note]() | | [] ||
 | 10 | 5/9 | Optimization in Probability Space |[note]() | | [] | |
 | 11 | 5/11 | Optimization in Probability Space | [note]() | | [] ||
 |  | 5/16 | Canceled due to NeurIPS | [note]() |  | [] ||
-| 12 | 5/18 | Implicit Bias of Logistic Regression | [note]() | | [] ||
+| 12 | 5/18 | Optimization in Probability Space | [note]() | | [] ||
 | 13 | 5/23 | Implicit Bias of Logistic Regression | [note]() | |  ||
-| 14 | 5/25 | Implicit Bias of Deep Linear Networks | [note]() | | [] ||
+| 14 | 5/25 | Implicit Bias of Logistic Regression | [note]() | | [] ||
 | 15 | 5/30 | Implicit Bias of Deep Linear Networks | [note]() | | [] ||
-| 16 | 6/1 | Implicit Bias of Leaky ReLU Networks |  | | [] ||
+| 16 | 6/1 | Implicit Bias of Deep Linear Networks |  | | [] ||
 | 17 | 6/6 | Implicit Bias of Leaky ReLU Networks |  | | [] ||
-| 18 | 6/8 | TBD | [note]() | | [] ||
+| 18 | 6/8 | Implicit Bias of Leaky ReLU Networks | [note]() | | [] ||
 |  |  |  |  | |  ||
 
 ## Academic Integrity Policy
