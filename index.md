@@ -79,7 +79,7 @@ Students are encouraged to read the [UCLA Student Conduct Code](https://www.dean
 
 Students are required to scribe one lecture note. The latex template for lecture note will be provided. The scribed lecture notes should be a zip file submitted on CCLE that compiles without errors, and it is due **4 days after the lecture**. This note will be graded. For example, if 2 students are assigned to scribe a given lecture, I expect to receive 2 separate notes. The individual notes are primarily for grading purposes (and also to make sure that each student scribes their own lecture notes), while the final version of the lecture note will be posted on the course website, after being proofread and edited by the Instructor. 
 
-- The signup sheet for lecture note scribing can be found at [here](https://docs.google.com/spreadsheets/d/1sMOOK-bNIYO0njKglIbmODHWpGRUA_lULDq9CUqEaG4/edit#gid=0).
+- The signup sheet for lecture note scribing can be found at [here](https://docs.google.com/spreadsheets/d/1arM8H_YvK1FDNrOXGnLWGUOpbj7-h1NwfILUI__v_GA/edit?usp=sharing).
 - The Latex template for lecture note scribing can be downloaded at [here](https://www.dropbox.com/s/dfsdcpszv0hwwh4/lecture%20scribing%20template.zip?dl=0)
 
 
