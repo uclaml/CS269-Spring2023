@@ -13,32 +13,25 @@ CS 260A, STAT 200A and 200B, ECE 236B and 236C, or equivalent courses.
 <!--University of California, Los Angeles  -->
 
 - Time: **Tuesday and Thursday 2:00PM - 3:50PM**
-- Location: [**BOELTER 5422**]
+- Location: [**BOELTER 5252**]
 - Instructor: [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) (Email: qgu at cs dot ucla dot edu)   
 - Office hours: **Tuesday and Thursday 4:00-4:30PM** on [**EVI 382**]
-- Course Website: [https://uclaml.github.io/CS269-Spring2021/](https://uclaml.github.io/CS269-Spring2022)
+- Course Website: [https://uclaml.github.io/CS269-Spring2023/](https://uclaml.github.io/CS269-Spring2023)
 
 ## Recommended Textbook
 
 There is no required textbook. The following are recommended textbooks:
 
-1. [T] Matus Telgarsky, [Deep learning theory lecture note](https://mjt.cs.illinois.edu/dlt/index.pdf), 2020
-2. [A] Sanjeev Arora et al., [Theory of Deep learning book draft](https://www.dropbox.com/s/smkp4vasbiszhw4/DLbook.pdf?dl=0), 2020 （Thank Prof. Sanjeev Arora for sharing the latest version of the book draft!）
-3. [SSBD] Shai Shalev-Shwartz, and Shai Ben-David. Understanding machine learning: From theory to algorithms. Cambridge University Press, 2014. 
-4. [MRT] Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar. Foundations of machine learning. MIT press, 2012. 
-5. [GBCB] Ian Goodfellow, Yoshua Bengio, Aaron Courville, and Yoshua Bengio. Deep learning. Vol. 1. Cambridge: MIT press, 2016.
-6. [ZLLS] Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola, Dive into Deep Learning, 2018.
+1. [N] Yurii Nesterov, Introductory Lectures on Convex Optimization
+A Basic Course, 2004
+2. [B] Sébastien Bubeck, [Convex Optimization: Algorithms and Complexity](https://arxiv.org/abs/1405.4980), 2014 
+3. [BV] Stephen Boyd, and Lieven Vandenberghe. [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf). Cambridge University Press, 2004. 
+4. [NW] Jorge Nocedal and Stephen J. Wright. Numerical Optimization. Springer press, 2006. 
 
 ## Reference
 
-1. [BLLT] Bartlett, P. L., Long, P. M., Lugosi, G., & Tsigler, A. (2020). Benign overfitting in linear regression. Proceedings of the National Academy of Sciences, 117(48), 30063-30070.
-2. [TB] Tsigler, A. & Bartlett, (2020). Benign overfitting in ridge regression. arXiv preprint arXiv:2009.14286.
-3. [ZWBGK2021] Zou, D., Wu, J., Braverman, V., Gu, Q., & Kakade, S. M. (2021). Benign Overfitting of Constant-Stepsize SGD for Linear Regression. In COLT.
-4. [WZBGK] Wu, J., Zou, D., Braverman, V., Gu, Q., & Kakade, S. M. (2021). Last Iterate Risk Bounds of SGD with Decaying Stepsize for Overparameterized Linear Regression. arXiv preprint arXiv:2110.06198.
-5. [ZWBGFK] Zou, D., Wu, J., Braverman, V., Gu, Q., & Kakade, S. M. (2021). The Benefits of Implicit Regularization from SGD in Least Squares Problems. In NeurIPS.
-6. [ZWBGK2022] Zou, D., Wu, J., Braverman, V., Gu, Q., & Kakade, S. M. (2022). Risk Bounds of Multi-Pass SGD for Least Squares in the Interpolation Regime. arXiv preprint arXiv:2203.03159.
-7. [ZCLG] Zou, D., Cao, Y., Li, Y., & Gu, Q. (2021). Understanding the Generalization of Adam in Learning Neural Networks with Proper Regularization. arXiv preprint arXiv:2108.11371. 
-8. [CCBG] Cao, Y., Chen, Z., Belkin, M., & Gu, Q. (2022). Benign Overfitting in Two-layer Convolutional Neural Networks. arXiv preprint arXiv:2202.06526. 
+1. TBA
+1. TBA
 	
 
 
@@ -46,44 +39,41 @@ There is no required textbook. The following are recommended textbooks:
  
 Grades will be computed based on the following factors:
 
-- Attendance 30%
-- Lecture Note Scribe 30%
+- Homework 40%
+- Lecture Note Scribe 20%
 - Project 40%
 
-## Schedule
+## Tentative Schedule
 
 
 | # | Date  | Topic  | note | scribed note | reading materials  | homework |
 |----|----|----|----|----|----|----|
-| 1 | 3/29 | Introduction  | [note]() | [scribe note]() | ||
-| 2 | 3/31 | Benign Overfitting in Linear Regression I | [note]() | [scribe note]() | [BLLT] ||
-| 3 | 4/5 | Benign Overfitting in Linear Regression II | [note]() | [scribe note]() | [BLLT] |
-| 4 | 4/7 | Benign Overfitting in Linear Regression III| [note]() |  [scribe note]()| [BLLT] ||
-| 5 | 4/12 | Benign Overfitting in Ridge Regression I | [note]() | [scribe note]() | [TB] ||
-| 6 | 4/14 | Benign Overfitting in Ridge Regression II| [note]() | [scribe note]()| [TB] ||
-| 7 | 4/19 | Benign Overfitting of SGD I | [note]()| [scribe note]() | [ZWBGK2021] | |
-| 8 | 4/21 | Benign Overfitting of SGD II | [note]() |  | [ZWBGK2021] ||
-| 9 | 4/26 | Benign Overfitting of SGD III | [note]() | [scribe note]() | [ZWBGK2021]  ||
-| 10 | 4/28 | Last Iterate Bound of SGD I |[note]() | | [WZBGK] ||
-| 11 | 5/3 | Last Iterate Bound of SGD II |[note]() | | [WZBGK] | |
-| 12 | 5/5 | Last Iterate Bound of SGD III | [note]() | | [WZBGK] ||
-| 13 | 5/10 | Ridge Regression vs SGD | [note]() |  | [ZWBGFK] ||
-| 14 | 5/12 | Ridge Regression vs SGD | [note]() | | [ZWBGFK] ||
-|  | 5/17 | Canceled due to NeurIPS | [note]() | |  ||
-| 15 | 5/19 | Multi-pass SGD I | [note]() | | [ZWBGK2022] ||
-| 16 | 5/24 | Multi-pass SGD II | [note]() | | [ZWBGK2022] ||
-| 17 | 5/26 | Benign Overfitting of CNNs I |  | | [CCBG] ||
-| 18 | 5/31 | Benign Overfitting of CNNs II |  | | [CCBG] ||
-| 19 | 6/2 | Benign Overfitting of CNNs III | [note]() | | [CCBG] ||
+| 1 | 4/4 | Nesterov's AGD  | [note]() | [scribe note]() | [N] ||
+| 2 | 4/6 | Nesterov's AGD | [note]() | [scribe note]() | [N] ||
+| 3 | 4/11 | Variance Reduction | [note]() | [scribe note]() | [] |
+| 4 | 4/13 | Variance Reduction| [note]() |  [scribe note]()| [] ||
+| 5 | 4/18 | Lower Bound | [note]() | [scribe note]() | [] ||
+|  | 4/20 | Canceled due to travel| [note]() | [scribe note]()| [] ||
+| 6 | 4/25 | Lower Bound | [note]()| [scribe note]() | [] | |
+| 7 | 4/27 | Optimization on Riemmanian Manifold | [note]() |  | [] ||
+| 8 | 5/2 | Optimization on Riemmanian Manifold | [note]() | [scribe note]() | []  ||
+| 9 | 5/4 | Optimization in Probability Space |[note]() | | [] ||
+| 10 | 5/9 | Optimization in Probability Space |[note]() | | [] | |
+| 11 | 5/11 | Optimization in Probability Space | [note]() | | [] ||
+| 12 | 5/16 | Canceled due to NeurIPS | [note]() |  | [] ||
+| 13 | 5/18 | Implicit Bias of Logistic Regression | [note]() | | [] ||
+|  | 5/23 | Canceled due to NeurIPS | [note]() | |  ||
+| 14 | 5/25 | Implicit Bias of Deep Linear Networks | [note]() | | [] ||
+| 15 | 5/30 | Implicit Bias of Deep Linear Networks | [note]() | | [] ||
+| 16 | 6/1 | Implicit Bias of Leaky ReLU Networks |  | | [] ||
+| 17 | 6/6 | Implicit Bias of Leaky ReLU Networks |  | | [] ||
+| 18 | 6/8 | TBD | [note]() | | [] ||
 |  |  |  |  | |  ||
 
 ## Academic Integrity Policy
 
 Students are encouraged to read the [UCLA Student Conduct Code](https://www.deanofstudents.ucla.edu/Individual-Student-Code) for Academic Integrity. 
 
-## Attendance
-
-There will be a signup sheet in each lecture. Each student can skip at most 2 lectures. The student will lose 3 points for each absence.
 
 ## Lecture Note Scribing
 
@@ -107,15 +97,10 @@ The best outcome of the project is a manuscript that is publishable in major mac
 
 There are many other optimization for machine learning courses. To mention a few:
 
-[Matus Telgarsky's deep learning theory course](https://mjt.cs.illinois.edu/dlt/)
+[Suvrit Sra's Optimization for Machine Learning](https://optml.mit.edu/teach/6881/)
 
-[Sanjeev Arora's theoretical deep learning course](https://www.cs.princeton.edu/courses/archive/fall19/cos597B/)
+[Moritz Hardt's Convex Optimization and Approximation](https://ee227c.github.io)
 
-[Peter Bartlett's statistical learning theory course](https://people.eecs.berkeley.edu/~bartlett/courses/281b-sp08/)
+[Martin Jaggi and Nicolas Flammarion's Optimization for Machine Learning](https://github.com/epfml/OptML_course)
 
-[Sham Kakade's statistical learning theory course](http://stat.wharton.upenn.edu/~skakade/courses/stat928/)
-
-[Maxim Raginsky's statistical learning theory course](http://maxim.ece.illinois.edu/teaching/SLT/)
-
-[Quanquan Gu's foundations of deep learning course in Spring 2021](https://uclaml.github.io/CS269-Spring2021/)
 
