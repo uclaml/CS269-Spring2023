@@ -30,8 +30,8 @@ A Basic Course, 2004
 
 ## Reference
 
-1. TBA
-1. TBA
+1. [JZ] Rie Johnson, Tong Zhang, Accelerating Stochastic Gradient Descent using Predictive Variance Reduction, NIPS 2013
+1. [FLLZ] Cong Fang, Chris Junchi Li, Zhouchen Lin, Tong Zhang, SPIDER: Near-Optimal Non-Convex Optimization via Stochastic Path-Integrated Differential Estimator, NeurIPS 2018
 	
 
 
@@ -48,11 +48,11 @@ Grades will be computed based on the following factors:
 
 | # | Date  | Topic  | note | scribed note | reading materials  | homework |
 |----|----|----|----|----|----|----|
-| 1 | 4/4 | Gradient Desent  | [note]() | [scribe note]() | [N] ||
-| 2 | 4/6 | Nesterov's AGD | [note]() | [scribe note]() | [N] ||
-| 3 | 4/11 | SGD | [note]() | [scribe note]() | [] |
-| 4 | 4/13 | Variance Reduction| [note]() |  [scribe note]()| [] ||
-| 5 | 4/18 | Variance Reduction | [note]() | [scribe note]() | [] ||
+| 1 | 4/4 | Gradient Desent  | [note]() | [scribe note]() | [B] ||
+| 2 | 4/6 | Nesterov's AGD | [note]() | [scribe note]() | [N,B] ||
+| 3 | 4/11 | SGD | [note]() | [scribe note]() | [B] |
+| 4 | 4/13 | Variance Reduction| [note]() |  [scribe note]()| [JZ,FLLZ] ||
+| 5 | 4/18 | Variance Reduction | [note]() | [scribe note]() | [JZ, FLLZ] ||
 |  | 4/20 | Canceled due to travel| [note]() | [scribe note]()| [] ||
 | 6 | 4/25 | Lower Bound | [note]()| [scribe note]() | [] | |
 | 7 | 4/27 | Lower Bound | [note]() |  | [] ||
