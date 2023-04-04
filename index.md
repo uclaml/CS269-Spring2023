@@ -3,7 +3,7 @@
 
 ## Overview
 
-Optimization is playing a central role in machine learning and deep learning. The goal of this course is to introduce modern optimization algorithms and theory for machine learning. Topics include but are not limited to gradient descent, accelerated gradient descent, stochastic gradient descent, variance reduction, lower bounds, minimax optimization, etc. Includes topic lectures and student project. Instructor will give lectures on the selected topics. Students will do a course project.
+Optimization is playing a central role in machine learning and deep learning. The goal of this course is to introduce modern optimization algorithms and theory for machine learning. Topics include but are not limited to gradient descent, accelerated gradient descent, stochastic gradient descent, variance reduction, lower bounds, optimization on manifolds, optimization in probability space, implitic bias of optimization algorithms, etc. Includes topic lectures and student project. Instructor will give lectures on the selected topics. Students will do a course project.
 
 ## Prerequisites
 CS 260A, STAT 200A and 200B, ECE 236B and 236C, or equivalent courses.
