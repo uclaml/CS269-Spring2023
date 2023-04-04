@@ -90,7 +90,7 @@ Students are required to do a project in this class. The goal of the course proj
 - A novel and sound solution to an interesting problem
 - Thorough theoretical analysis of existing deep learning approaches
 
-The best outcome of the project is a manuscript that is publishable in major machine learning conferences (COLT, ICML, NeurIPS, ICLR, AISTATS, UAI etc.) or journals (Journal of Machine Learning Research). The detailed course project guideline can be found at [here](https://www.dropbox.com/s/2o0hht6qjijjbog/Course%20project.pdf?dl=0). **Students cannot use their own published work as the course project.**
+The best outcome of the project is a manuscript that is publishable in major machine learning conferences (COLT, ICML, NeurIPS, ICLR, AISTATS, UAI etc.) or journals (Journal of Machine Learning Research). The detailed course project guideline can be found at [here](https://www.dropbox.com/s/8yeic1gsv9rl9c6/Course%20project.pdf?dl=0). **Students cannot use their own published work as the course project.**
 
 
 ## Relevant Courses
