@@ -24,14 +24,18 @@ There is no required textbook. The following are recommended textbooks:
 
 1. [N] Yurii Nesterov, Introductory Lectures on Convex Optimization
 A Basic Course, 2004
-2. [B] Sébastien Bubeck, [Convex Optimization: Algorithms and Complexity](https://arxiv.org/abs/1405.4980), 2014 
+2. [B] Sébastien Bubeck, [Convex Optimization: Algorithms and Complexity](https://arxiv.org/abs/1405.4980), 2014.
 3. [BV] Stephen Boyd, and Lieven Vandenberghe. [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf). Cambridge University Press, 2004. 
 4. [NW] Jorge Nocedal and Stephen J. Wright. Numerical Optimization. Springer press, 2006. 
 
 ## Reference
 
-1. [JZ] Rie Johnson, Tong Zhang, Accelerating Stochastic Gradient Descent using Predictive Variance Reduction, NIPS 2013
-1. [FLLZ] Cong Fang, Chris Junchi Li, Zhouchen Lin, Tong Zhang, SPIDER: Near-Optimal Non-Convex Optimization via Stochastic Path-Integrated Differential Estimator, NeurIPS 2018
+1. [JZ] Rie Johnson, Tong Zhang, Accelerating Stochastic Gradient Descent using Predictive Variance Reduction, NIPS 2013.
+2. [FLLZ] Cong Fang, Chris Junchi Li, Zhouchen Lin, Tong Zhang, SPIDER: Near-Optimal Non-Convex Optimization via Stochastic Path-Integrated Differential Estimator, NeurIPS 2018.
+3. [CDHS] Yair Carmon, John C. Duchi, Oliver Hinder, Aaron Sidford, Lower Bounds for Finding Stationary Points I, Mathematical Programming, 2020.
+4. [ZS] Hongyi Zhang, Suvrit Sra, First-order Methods for Geodesically Convex Optimization, In COLT, 2016.
+5. []
+
 	
 
 
@@ -52,13 +56,13 @@ Grades will be computed based on the following factors:
 | 2 | 4/6 | Nesterov's AGD | [note]() | [scribe note]() | [N,B] ||
 | 3 | 4/11 | SGD | [note]() | [scribe note]() | [B] |
 | 4 | 4/13 | Variance Reduction| [note]() |  [scribe note]()| [JZ,FLLZ] ||
-| 5 | 4/18 | Variance Reduction | [note]() | [scribe note]() | [JZ, FLLZ] ||
+| 5 | 4/18 | Variance Reduction | [note]() | [scribe note]() | [JZ,FLLZ] ||
 |  | 4/20 | Canceled due to travel| [note]() | [scribe note]()| [] ||
-| 6 | 4/25 | Lower Bound | [note]()| [scribe note]() | [] | |
-| 7 | 4/27 | Lower Bound | [note]() |  | [] ||
-| 8 | 5/2 | Optimization on Riemmanian Manifold | [note]() | [scribe note]() | []  ||
-| 9 | 5/4 | Optimization on Riemmanian Manifold |[note]() | | [] ||
-| 10 | 5/9 | Optimization in Probability Space |[note]() | | [] | |
+| 6 | 4/25 | Lower Bound | [note]()| [scribe note]() | [N] | |
+| 7 | 4/27 | Lower Bound | [note]() |  | [CDHS] ||
+| 8 | 5/2 | Lower Bound | [note]() | [scribe note]() | [CDHS,FLLZ]  ||
+| 9 | 5/4 | Optimization on Riemmanian Manifold |[note]() | | [ZS] ||
+| 10 | 5/9 | Optimization on Riemmanian Manifold |[note]() | | [] | |
 | 11 | 5/11 | Optimization in Probability Space | [note]() | | [] ||
 |  | 5/16 | Canceled due to NeurIPS | [note]() |  | [] ||
 | 12 | 5/18 | Optimization in Probability Space | [note]() | | [] ||
