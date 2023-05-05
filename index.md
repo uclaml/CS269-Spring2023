@@ -32,9 +32,10 @@ A Basic Course, 2004
 
 1. [JZ] Rie Johnson, Tong Zhang, Accelerating Stochastic Gradient Descent using Predictive Variance Reduction, NIPS 2013.
 2. [FLLZ] Cong Fang, Chris Junchi Li, Zhouchen Lin, Tong Zhang, SPIDER: Near-Optimal Non-Convex Optimization via Stochastic Path-Integrated Differential Estimator, NeurIPS 2018.
-3. [CDHS] Yair Carmon, John C. Duchi, Oliver Hinder, Aaron Sidford, Lower Bounds for Finding Stationary Points I, Mathematical Programming, 2020.
-4. [ZS] Hongyi Zhang, Suvrit Sra, First-order Methods for Geodesically Convex Optimization, In COLT, 2016.
-5. []
+3. [WJZLT] Zhe Wang, Kaiyi Ji, Yi Zhou, Yingbin Liang, Vahid Tarokh, SpiderBoost and Momentum: Faster Stochastic Variance Reduction Algorithms, NeurIPS 2019.
+4. [CDHS] Yair Carmon, John C. Duchi, Oliver Hinder, Aaron Sidford, Lower Bounds for Finding Stationary Points I, Mathematical Programming, 2020.
+5. [ZS] Hongyi Zhang, Suvrit Sra, First-order Methods for Geodesically Convex Optimization, In COLT, 2016.
+6. [ZRS] Hongyi Zhang, Sashank J. Reddi, Suvrit Sra, Riemannian SVRG: Fast Stochastic Optimization on Riemannian Manifolds, In NIPS 2016.
 
 	
 
@@ -55,14 +56,14 @@ Grades will be computed based on the following factors:
 | 1 | 4/4 | Gradient Desent  | [note]() | [scribe note]() | [B] ||
 | 2 | 4/6 | Nesterov's AGD | [note]() | [scribe note]() | [N,B] ||
 | 3 | 4/11 | SGD | [note]() | [scribe note]() | [B] |
-| 4 | 4/13 | Variance Reduction| [note]() |  [scribe note]()| [JZ,FLLZ] ||
-| 5 | 4/18 | Variance Reduction | [note]() | [scribe note]() | [JZ,FLLZ] ||
+| 4 | 4/13 | Variance Reduction| [note]() |  [scribe note]()| [JZ] ||
+| 5 | 4/18 | Variance Reduction | [note]() | [scribe note]() | [FLLZ,WJZLT] ||
 |  | 4/20 | Canceled due to travel| [note]() | [scribe note]()| [] ||
 | 6 | 4/25 | Lower Bound | [note]()| [scribe note]() | [N] | |
 | 7 | 4/27 | Lower Bound | [note]() |  | [CDHS] ||
 | 8 | 5/2 | Lower Bound | [note]() | [scribe note]() | [CDHS,FLLZ]  ||
-| 9 | 5/4 | Optimization on Riemmanian Manifold |[note]() | | [ZS] ||
-| 10 | 5/9 | Optimization on Riemmanian Manifold |[note]() | | [] | |
+| 9 | 5/4 | Optimization on Riemmanian Manifold |[note]() | | [ZS,ZRS] ||
+| 10 | 5/9 | Optimization on Riemmanian Manifold |[note]() | | [ZS,ZRS] | |
 | 11 | 5/11 | Optimization in Probability Space | [note]() | | [] ||
 |  | 5/16 | Canceled due to NeurIPS | [note]() |  | [] ||
 | 12 | 5/18 | Optimization in Probability Space | [note]() | | [] ||
