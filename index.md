@@ -36,6 +36,10 @@ A Basic Course, 2004
 4. [CDHS] Yair Carmon, John C. Duchi, Oliver Hinder, Aaron Sidford, Lower Bounds for Finding Stationary Points I, Mathematical Programming, 2020.
 5. [ZS] Hongyi Zhang, Suvrit Sra, First-order Methods for Geodesically Convex Optimization, In COLT, 2016.
 6. [ZRS] Hongyi Zhang, Sashank J. Reddi, Suvrit Sra, Riemannian SVRG: Fast Stochastic Optimization on Riemannian Manifolds, In NIPS 2016.
+7. [KS] Anna Korba1, Adil Salim, Sampling as First-Order Optimization over a space of probability measures, ICML 2022 tutorial
+8. [VW] Santosh Vempala, Andre Wibisono, Rapid Convergence of the Unadjusted Langevin Algorithm: Isoperimetry Suffices, NeurIPS 2022
+9. [GLSS] Suriya Gunasekar, Jason Lee, Daniel Soudry, and Nathan Srebro. Characterizingimplicit bias in terms of optimization geometry, ICML 2018.
+10. [MWGLSS] Edward Moroshko, Blake E Woodworth, Suriya Gunasekar, Jason D Lee, NatiSrebro, and Daniel Soudry. Implicit bias in deep linear classification: Initial-ization scale vs training accuracy. NeurIPS 2020.
 
 	
 
@@ -64,15 +68,15 @@ Grades will be computed based on the following factors:
 | 8 | 5/2 | Lower Bound | [note]() | [scribe note]() | [CDHS,FLLZ]  ||
 | 9 | 5/4 | Optimization on Riemmanian Manifold |[note]() | | [ZS,ZRS] ||
 | 10 | 5/9 | Optimization on Riemmanian Manifold |[note]() | | [ZS,ZRS] | |
-| 11 | 5/11 | Optimization in Probability Space | [note]() | | [] ||
+| 11 | 5/11 | Optimization in Probability Space | [note]() | | [KS] ||
 |  | 5/16 | Canceled due to NeurIPS | [note]() |  | [] ||
-| 12 | 5/18 | Optimization in Probability Space | [note]() | | [] ||
-| 13 | 5/23 | Implicit Bias of Logistic Regression | [note]() | |  ||
-| 14 | 5/25 | Implicit Bias of Logistic Regression | [note]() | | [] ||
-| 15 | 5/30 | Implicit Bias of Deep Linear Networks | [note]() | | [] ||
-| 16 | 6/1 | Implicit Bias of Deep Linear Networks |  | | [] ||
-| 17 | 6/6 | Implicit Bias of Leaky ReLU Networks |  | | [] ||
-| 18 | 6/8 | Implicit Bias of Leaky ReLU Networks | [note]() | | [] ||
+| 12 | 5/18 | Optimization in Probability Space | [note]() | | [KS] ||
+| 13 | 5/23 | Optimization in Probability Space | [note]() | | [VW] ||
+| 14 | 5/25 | Optimization in Probability Space | [note]() | | [VW] ||
+| 15 | 5/30 | Implicit Bias of Logistic Regression | [note]() | | [GLSS] ||
+| 16 | 6/1 | Implicit Bias of Logistic Regression |  | | [GLSS] ||
+| 17 | 6/6 | Implicit Bias of Deep Linear Networks |  | | [MWGLSS] ||
+| 18 | 6/8 | Implicit Bias of Deep Linear Networks | [note]() | | [MWGLSS] ||
 |  |  |  |  | |  ||
 
 ## Academic Integrity Policy
